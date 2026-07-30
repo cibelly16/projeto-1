@@ -28,7 +28,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background: linear-gradient(rgb(226, 157, 93), rgb(241, 127, 56), 50%);
+    background: linear-gradient(rgb(226, 157, 93), rgb(241, 127, 56), 70%);
 }
 
 main{
